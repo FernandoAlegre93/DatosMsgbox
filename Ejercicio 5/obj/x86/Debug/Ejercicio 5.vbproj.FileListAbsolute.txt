@@ -1,0 +1,18 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio_5.Formulario.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio_5.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio 5.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\bin\Debug\Ejercicio 5.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio 5.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio 5.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5\obj\x86\Debug\Ejercicio 5.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio 5.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio 5.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio_5.Formulario.resources
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio_5.Resources.resources
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio 5.vbproj.GenerateResource.Cache
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 5\Ejercicio 5\obj\x86\Debug\Ejercicio 5.exe
